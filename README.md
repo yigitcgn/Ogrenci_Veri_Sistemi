@@ -1,4 +1,4 @@
-\# ÖĞRENCİ BİLGİ SİSTEMİ
+# ÖĞRENCİ BİLGİ SİSTEMİ
 
 
 
@@ -6,7 +6,7 @@ Bu çalışma, C programlama dili kullanılarak geliştirilmiş, veri yapıları
 
 
 
-\## Teknik Özellikler
+## Teknik Özellikler
 
 
 
@@ -30,7 +30,7 @@ Bu çalışma, C programlama dili kullanılarak geliştirilmiş, veri yapıları
 
 
 
-\## Kullanılan Fonksiyonlar ve Yapılar
+## Kullanılan Fonksiyonlar ve Yapılar
 
 
 
@@ -46,7 +46,8 @@ Bu çalışma, C programlama dili kullanılarak geliştirilmiş, veri yapıları
 
 
 
-\## Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
+Projeyi kendi istemcinizde çalıştırmak için klasörü yükleyip içerisindeki ogrenci_sistemi.exe dosyasını açmanız yeterli olacaktır
 
 Projeyi yerel sisteminizde çalıştırmak için klasörü indirip içerisinden ogrenci\_sistemi.exe adlı exeyi açmanız yeterli olacaktır.
 
